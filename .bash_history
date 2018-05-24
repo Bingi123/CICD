@@ -141,3 +141,20 @@ $ git config --global user.email bingialekya@gmail.com
  git config --global push.default simple
 git config --list
 sudo su -
+git init
+git config --global username "bingi123"
+$git config --global username "bingi123"
+sudo git config --global username "bingi123"
+sudo git config --global user.name "bingi123"
+sudo git config --global user.email "bingialekya@gmail.com"
+git clone https://github.com/vemular1/jenkins-maven-pipeline.git
+git log
+sudo git log
+git push
+git add .
+git commit -m "myfirst git"
+git log
+git push https://github.com/Bingi123/CICD.git
+ls
+cd ..
+exit
